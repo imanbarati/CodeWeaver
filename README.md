@@ -1,4 +1,4 @@
-
+2
 # CodeWeaver: Generate a Markdown Document of Your Codebase Structure and Content
 
 CodeWeaver is a command-line tool designed to weave your codebase into a single, easy-to-navigate Markdown document. It recursively scans a directory, generating a structured representation of your project's file hierarchy and embedding the content of each file within code blocks. This tool simplifies codebase sharing, documentation, and integration with AI/ML code analysis tools by providing a consolidated and readable Markdown output.
